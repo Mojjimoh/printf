@@ -35,28 +35,25 @@ This team project is part of the first year curriculum of ALX. _printf replicate
 ---
 These are all the tasks of this project, the ones that are completed link to the corresponding files.<br>
 
-[0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life](https://github.com/RachaelKivuti/printf/blob/main/_printf.c)
+[0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life]
 ---
 Write a function that produces output according to format.<br>
 c : converts input into a character<br>
 s : converts input into a string<br>
 
-[1. Education is when you read the fine print. Experience is what you get if you don't](https://github.com/RachaelKivuti/printf/blob/main/print_nums.c)
----
+[1. Education is when you read the fine print. Experience is what you get if you don't]
 + Handle the following conversion specifiers:<br>
   d : converts input into a base 10 integer<br>
   i : converts input into an integer<br>
 
-[2. Just because it's in print doesn't mean it's the gospel](https://github.com/RachaelKivuti/printf/blob/main/man_3_printf)
----
+[2. Just because it's in print doesn't mean it's the gospel]
 + Create a man page for your function<br>
 
-[3. With a face like mine, I do better in print](https://github.com/RachaelKivuti/printf/blob/main/print_bases.c)
----
+[3. With a face like mine, I do better in print]
 + Handle the following conversion specifiers:<br>
   b : the unsigned int argument is converted to binary<br>
 
-[4. What one has not experienced, one will never understand in print](https://github.com/RachaelKivuti/printf/blob/main/print_bases.c)
+[4. What one has not experienced, one will never understand in print]
 ---
 + Handle the following conversion specifiers:<br>
    u : converts the input into an unsigned integer<br>
@@ -64,23 +61,20 @@ s : converts input into a string<br>
    x : converts the input into a hexadecimal number<br>
    X : converts the input into a hexadecimal number with capital letters<br>
 
-[5. Nothing in fine print is ever good news](https://github.com/RachaelKivuti/printf/blob/main/write_funcs.c)
+[5. Nothing in fine print is ever good news]
 ---
 + Use a local buffer of 1024 chars in order to call write as little as possible.<br>
 
-[6. My weakness is wearing too much leopard print](https://github.com/RachaelKivuti/printf/blob/main/print_custom.c)
----
+[6. My weakness is wearing too much leopard print]
 + Handle the following custom conversion specifier:<br>
    S : prints the string<br>
    Non printable characters (0 < ASCII value < 32 or >= 127) are printed this way: \x, followed by the ASCII code value in hexadecimal (upper case - always 2 characters)<br>
 
-[7. How is the world ruled and led to war? Diplomats lie to journalists and believe these lies when they see them in print](https://github.com/RachaelKivuti/printf/blob/main/print_address.c)
----
+[7. How is the world ruled and led to war? Diplomats lie to journalists and believe these lies when they see them in print]
 + Handle the following conversion specifier:<br>
    p : int input is converted to a pointer address<br>
 
-[8. The big print gives and the small print takes away](https://github.com/RachaelKivuti/printf/blob/main/get_flag.c)
----
+[8. The big print gives and the small print takes away]
 + Handle the following flag characters for non-custom conversion specifiers:<br>
 + : adds a + in front of signed positive numbers and a - in front of signed negative numbers<br>
 space : same as +, but adds a space (is overwritten by +)<br>
@@ -108,13 +102,11 @@ adds a 0 in front of octal conversions that don't begin with one, and a 0x or 0X
 ---
 + Handle the - flag character for non-custom conversion specifiers.<br>
 
-[14. Print is the sharpest and the strongest weapon of our party](https://github.com/RachaelKivuti/printf/blob/main/print_custom.c)
----
+[14. Print is the sharpest and the strongest weapon of our party]
 + Handle the following custom conversion specifier:<br>
    r : prints the reversed string<br>
 
-[15. The flood of print has turned reading into a process of gulping rather than savoring](https://github.com/RachaelKivuti/printf/blob/main/print_custom.c)
----
+[15. The flood of print has turned reading into a process of gulping rather than savoring]
 + Handle the following custom conversion specifier:<br>
     R : prints the rot13'ed string<br>
 
@@ -126,6 +118,6 @@ Authors
 ---
 
 
-**RachaelKivuti:** kivutingatha@gmail.com
+**MauriceOtieno:** yawasmaurice@gmail.com
 <br>
-**otienorichard:** otienorichard505@gmail.com
+**Judith Muteti:** judymuei@gmail.com
